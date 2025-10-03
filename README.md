@@ -1,9 +1,6 @@
 # interactive-temperature-dashboard
-# 🌍 Global Temperature Trends Dashboard
 
 A simple and interactive web application built with Streamlit to visualize global land temperature changes over time. This project was created as a capstone project to demonstrate skills in data manipulation with Pandas and web-based data visualization.
-
-![Dashboard Demo](https://drive.google.com/file/d/14LPVwSrlAYz4Vw8Wvl_i7mZ70kykTJJb/view?usp=sharing)
 
 
 ---
@@ -37,7 +34,7 @@ To run this project on your own, you can follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-   https://github.com/roaa-kittaneh/interactive-temperature-dashboard.git
+    https://github.com/roaa-kittaneh/interactive-temperature-dashboard.git
     cd interactive-temperature-dashboard
     ```
 
@@ -55,8 +52,7 @@ To run this project on your own, you can follow these steps:
 4.  **View the app:**
     The app will open in your default web browser.
 
-Alternatively, you can open the `.ipynb` file in Google Colab and run the cells sequentially, as described in the notebook.
+Alternatively, you can open the `.ipynb` file in Google Colab and run the cells sequentially, as described in the notebook
 
-
-
+5. [Watch a full video demo here](https://drive.google.com/file/d/14LPVwSrlAYz4Vw8Wvl_i7mZ70kykTJJb/view?usp=sharing)
 
