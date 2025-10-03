@@ -1,5 +1,4 @@
 # interactive-temperature-dashboard
-An interactive dashboard built with Streamlit and Pandas to visualize global temperature trends.
 # 🌍 Global Temperature Trends Dashboard
 
 A simple and interactive web application built with Streamlit to visualize global land temperature changes over time. This project was created as a capstone project to demonstrate skills in data manipulation with Pandas and web-based data visualization.
@@ -38,8 +37,8 @@ To run this project on your own, you can follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-    cd YOUR_REPOSITORY_NAME
+   https://github.com/roaa-kittaneh/interactive-temperature-dashboard.git
+    cd interactive-temperature-dashboard
     ```
 
 2.  **Install the necessary libraries:**
